@@ -40,4 +40,4 @@ Feel free to explore my repositories and see what I've been up to. If you have a
 
 You can find me on:
 - [GitHub](https://github.com/Sedna03)
-- [LinkedIn](https://www.linkedin.com/in/Sedna03)
+- [LinkedIn](https://www.linkedin.com/in/ziyyad03/)
