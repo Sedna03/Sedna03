@@ -30,7 +30,6 @@ Here are some of the projects I've been working on:
 When I'm not studying or working on projects, I enjoy:
 
 - Reading books on various topics, especially related to science and technology.
-- Watching anime for relaxation and inspiration.
 - Building and experimenting with RC planes and drones.
 
 Feel free to explore my repositories and see what I've been up to. If you have any questions or would like to collaborate, don't hesitate to reach out!
