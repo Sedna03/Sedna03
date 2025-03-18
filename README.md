@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I am an aerospace engineering student with a passi
   - Building RC planes
   - Conducting experiments with drones
   - Reading books
-  - Watching anime
 
 ## Goals and Aspirations
 
